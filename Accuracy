@@ -1,0 +1,10 @@
+#Error obtained in Linear Regression
+mean_absolute_error :  0.045980261896324565
+mean_squared_error :  0.0038204088710443638
+mean_squared_error :  0.0618094561620175
+
+
+#Error obtained in Random Forest
+mean_absolute_error :  0.042495999999999985
+mean_squared_error :  0.0040025439999999985
+mean_squared_error :  0.06326566209248109
